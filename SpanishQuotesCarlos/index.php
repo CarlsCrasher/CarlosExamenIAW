@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Fjalla+One&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="style/main.css" type="text/css">
+        <title> - Spanish Quotes - </title>
+    </head>
+    <body>
+       <center>
+            <h1 class="title">Spanish Quotes Generetor</h1>
+            <input class="minimalist_input" id="info" oninput="quotesJS()">
+       
+            <div id="suggestions" class="suggestions_panel">
+                    
+                    <p id="demo"> 
+                        
+                    </p>
+            </div>
+       </center>
+    </body>
+</html>
+
+<script src="js/main.js"></script>
